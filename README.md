@@ -27,7 +27,7 @@ and set environment variable for VAULT_ADDR
 for access_key and secret_key
 
 
-=====================================
+==================================
 git init
 
 touch .gitignore
@@ -50,7 +50,7 @@ git add .
 
 git commit -m "message"
 
- git remote add origin https://github.com/BalaDevopsForYou/Terraform_Vault_AWS_Integration.git
+git remote add origin https://github.com/BalaDevopsForYou/Terraform_Vault_AWS_Integration.git
 
 git push -u origin master
 
